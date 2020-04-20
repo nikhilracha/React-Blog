@@ -1,9 +1,13 @@
 This is a static Personal Blog made in React Js with Google news API integrated into the Navigation section of the blog.
 
-## Available Scripts
+Make sure you have node installed on your machine.
 
-In the project directory, you can run:
+In the project directory : 
 
+1) First install all the dependencies by running 
+### `npm install`
+
+2) To run use : 
 ### `npm start`
 
 Runs the app in the development mode.<br />
