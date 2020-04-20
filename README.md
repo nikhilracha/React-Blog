@@ -1,4 +1,6 @@
  This is a static Personal Blog made in React JS with Google news API integrated into the Navigation section of the blog.
+ 
+ I have used Material UI for styling and components. Google News API is used to deliver the news and it is updated for every 5 seconds
 
  Make sure you have node installed on your machine.
 
