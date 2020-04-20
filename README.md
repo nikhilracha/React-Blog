@@ -1,14 +1,18 @@
-This is a static Personal Blog made in React Js with Google news API integrated into the Navigation section of the blog.
+ This is a static Personal Blog made in React JS with Google news API integrated into the Navigation section of the blog.
 
-Make sure you have node installed on your machine.
+ Make sure you have node installed on your machine.
 
-In the project directory : 
+### In the project directory : 
 
 1) First install all the dependencies by running 
-### `npm install`
+ ```bash
+ npm install
+ ```
 
 2) To run use : 
-### `npm start`
+```bash
+npm start
+```
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
